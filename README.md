@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DriveCare PRO — Automotive Mobile & Web App for Vehicle Owner Self-Service
 
 ### 🎓 Academic Project Submission
@@ -89,3 +90,6 @@ npm run seed
 5. **`RoadsideRequest`**: Incident categorization (Flat tyre, Dead battery, Towing), GPS coordinates, technician dispatch, ETA tracking.
 6. **`ServiceCenter`**: Location data, bay capacity, operating hours, ratings, direct dial.
 7. **`Notification`**: Real-time push reminders for bookings, maintenance due dates, and SOS rescue status.
+=======
+# DBMS-2nd
+>>>>>>> a271ebf191bd3c2c3f6844ff84eced329efd280b
