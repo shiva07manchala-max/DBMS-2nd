@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618431"
+  },
+  "bookingId": "DC-2026-1048",
+  "user": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "vehicle": {
+    "$oid": "6aa8d62bfc60ab64f961842a"
+  },
+  "serviceCenter": {
+    "$oid": "6aa8d62bfc60ab64f9618420"
+  },
+  "serviceType": "Periodic Maintenance",
+  "scheduledDate": {
+    "$date": "2026-09-28T10:30:00.000Z"
+  },
+  "timeSlot": "10:30 AM",
+  "status": "Confirmed",
+  "pickupDropRequired": true,
+  "pickupAddress": "Plot 42, Hitech City Main Road, Madhapur",
+  "estimatedCost": 2850,
+  "customerNotes": "Please check mild squeak from front left brake pads during slow braking.",
+  "advisorNotes": "",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.179Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618432"
+  },
+  "bookingId": "DC-2026-0991",
+  "user": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "vehicle": {
+    "$oid": "6aa8d62bfc60ab64f961842c"
+  },
+  "serviceCenter": {
+    "$oid": "6aa8d62bfc60ab64f9618421"
+  },
+  "serviceType": "Tyre & Wheel Care",
+  "scheduledDate": {
+    "$date": "2026-10-02T15:00:00.000Z"
+  },
+  "timeSlot": "03:00 PM",
+  "status": "Pending",
+  "pickupDropRequired": false,
+  "pickupAddress": "",
+  "estimatedCost": 699,
+  "customerNotes": "Wheel alignment and computerized wheel balancing required.",
+  "advisorNotes": "",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.179Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa0f3d4448c64a0000854a"
+  },
+  "bookingId": "DC-2026-5275",
+  "user": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "vehicle": {
+    "$oid": "6aaa0f1b4448c64a0000853d"
+  },
+  "serviceCenter": {
+    "$oid": "6aa8d62bfc60ab64f9618420"
+  },
+  "serviceType": "Periodic Maintenance",
+  "scheduledDate": {
+    "$date": "2026-09-17T00:00:00.000Z"
+  },
+  "timeSlot": "10:30 AM",
+  "status": "Confirmed",
+  "pickupDropRequired": false,
+  "pickupAddress": "",
+  "estimatedCost": 1999,
+  "customerNotes": "",
+  "advisorNotes": "",
+  "createdAt": {
+    "$date": "2026-09-16T03:38:37.028Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:38:37.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa12d94448c64a00008593"
+  },
+  "bookingId": "DC-2026-2175",
+  "user": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "vehicle": {
+    "$oid": "6aaa114a4448c64a00008584"
+  },
+  "serviceCenter": {
+    "$oid": "6aa8d62bfc60ab64f9618420"
+  },
+  "serviceType": "Brake Inspection & Repair",
+  "scheduledDate": {
+    "$date": "2026-09-17T00:00:00.000Z"
+  },
+  "timeSlot": "10:30 AM",
+  "status": "Confirmed",
+  "pickupDropRequired": false,
+  "pickupAddress": "",
+  "estimatedCost": 1999,
+  "customerNotes": "",
+  "advisorNotes": "",
+  "createdAt": {
+    "$date": "2026-09-16T03:54:01.093Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:54:01.093Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618442"
+  },
+  "user": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "title": "Appointment Confirmed! 🚗",
+  "message": "Your Periodic Maintenance for Hyundai Creta is booked for 28 Sep at 10:30 AM.",
+  "type": "booking_status",
+  "isRead": false,
+  "link": "/bookings",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.189Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618443"
+  },
+  "user": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "title": "Roadside Rescue En Route 🆘",
+  "message": "Patrol Unit 02 (Vikram Rao) is 14 minutes away from your location on ORR Exit 13.",
+  "type": "roadside_update",
+  "isRead": false,
+  "link": "/roadside",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.189Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618444"
+  },
+  "user": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "title": "Maintenance Health Checkup Due",
+  "message": "Maruti Swift is due for 6-month seasonal tyre check and alignment.",
+  "type": "service_reminder",
+  "isRead": true,
+  "link": "/services",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.189Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d8182268fcb86a1c962f"
+  },
+  "user": {
+    "$oid": "6aa8d62bfc60ab64f961841b"
+  },
+  "title": "🆘 Roadside Rescue Dispatched!",
+  "message": "Help is on the way for your Hyundai Creta SX (O) Turbo. ETA: 18 mins. Driver: Venkatesh R. (+91 94401 22334)",
+  "type": "roadside_update",
+  "isRead": false,
+  "link": "/roadside",
+  "createdAt": {
+    "$date": "2026-09-15T05:31:04.906Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:31:04.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa0f3d4448c64a0000854c"
+  },
+  "user": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "title": "Appointment Confirmed! 🚗",
+  "message": "Your booking #DC-2026-5275 for Periodic Maintenance on 17/9/2026 at 10:30 AM is confirmed.",
+  "type": "booking_status",
+  "isRead": false,
+  "link": "/bookings",
+  "createdAt": {
+    "$date": "2026-09-16T03:38:37.103Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:38:37.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa107e4448c64a00008575"
+  },
+  "user": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "title": "🆘 Roadside Rescue Dispatched!",
+  "message": "Help is on the way for your RANGE ROVER SPORT. ETA: 18 mins. Driver: Venkatesh R. (+91 94401 22334)",
+  "type": "roadside_update",
+  "isRead": false,
+  "link": "/roadside",
+  "createdAt": {
+    "$date": "2026-09-16T03:43:58.098Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:43:58.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa12d94448c64a00008595"
+  },
+  "user": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "title": "Appointment Confirmed! 🚗",
+  "message": "Your booking #DC-2026-2175 for Brake Inspection & Repair on 17/9/2026 at 10:30 AM is confirmed.",
+  "type": "booking_status",
+  "isRead": false,
+  "link": "/bookings",
+  "createdAt": {
+    "$date": "2026-09-16T03:54:01.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:54:01.094Z"
+  },
+  "__v": 0
+}]

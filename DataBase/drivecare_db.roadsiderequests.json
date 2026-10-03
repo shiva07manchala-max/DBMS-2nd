@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618440"
+  },
+  "requestId": "SOS-2026-441",
+  "user": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "vehicle": {
+    "$oid": "6aa8d62bfc60ab64f961842c"
+  },
+  "emergencyType": "Flat Tyre",
+  "status": "Dispatched",
+  "urgency": "High",
+  "contactPhone": "+91 98765 43210",
+  "location": {
+    "address": "Near ORR Exit 13, Gachibowli, Hyderabad",
+    "latitude": 17.4367,
+    "longitude": 78.3512
+  },
+  "serviceCenterAssigned": {
+    "$oid": "6aa8d62bfc60ab64f9618422"
+  },
+  "mechanicAssigned": {
+    "name": "Rapid Response Unit 02 - Vikram Rao",
+    "phone": "+91 94401 88771",
+    "etaMinutes": 14,
+    "vanPlate": "TS 09 SOS 1100"
+  },
+  "notes": "Right rear tyre puncture on highway shoulder. Spare wheel available.",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.187Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d8182268fcb86a1c962d"
+  },
+  "requestId": "SOS-2026-264",
+  "user": {
+    "$oid": "6aa8d62bfc60ab64f961841b"
+  },
+  "vehicle": {
+    "$oid": "6aa8d62bfc60ab64f961842a"
+  },
+  "emergencyType": "Flat Tyre",
+  "status": "Assigned",
+  "urgency": "High",
+  "contactPhone": "+91 91234 56789",
+  "location": {
+    "address": "Near Hitech City Mindspace Circle, Hyderabad",
+    "latitude": 17.4485,
+    "longitude": 78.3748
+  },
+  "serviceCenterAssigned": {
+    "$oid": "6aa8d62bfc60ab64f9618421"
+  },
+  "mechanicAssigned": {
+    "name": "Rapid Response Unit 04 (Venkatesh R.)",
+    "phone": "+91 94401 22334",
+    "etaMinutes": 18,
+    "vanPlate": "TS 09 SOS 4412"
+  },
+  "notes": "",
+  "createdAt": {
+    "$date": "2026-09-15T05:31:04.900Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:31:04.900Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa107e4448c64a00008573"
+  },
+  "requestId": "SOS-2026-173",
+  "user": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "vehicle": {
+    "$oid": "6aaa0f644448c64a00008563"
+  },
+  "emergencyType": "Flat Tyre",
+  "status": "Assigned",
+  "urgency": "High",
+  "contactPhone": "8309438448",
+  "location": {
+    "address": "Near Hitech City Mindspace Circle, Hyderabad",
+    "latitude": 17.4485,
+    "longitude": 78.3748
+  },
+  "serviceCenterAssigned": {
+    "$oid": "6aa8d62bfc60ab64f9618421"
+  },
+  "mechanicAssigned": {
+    "name": "Rapid Response Unit 04 (Venkatesh R.)",
+    "phone": "+91 94401 22334",
+    "etaMinutes": 18,
+    "vanPlate": "TS 09 SOS 4412"
+  },
+  "notes": "",
+  "createdAt": {
+    "$date": "2026-09-16T03:43:58.091Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:43:58.091Z"
+  },
+  "__v": 0
+}]

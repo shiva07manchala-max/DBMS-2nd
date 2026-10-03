@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f961843a"
+  },
+  "recordId": "SR-2026-8802",
+  "user": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "vehicle": {
+    "$oid": "6aa8d62bfc60ab64f961842c"
+  },
+  "serviceCenter": {
+    "$oid": "6aa8d62bfc60ab64f9618421"
+  },
+  "serviceDate": {
+    "$date": "2026-04-06T00:00:00.000Z"
+  },
+  "mileageAtService": 24200,
+  "serviceType": "Brake Care & AC Disinfection",
+  "workSummary": "Front disc brake caliper cleaning, pad chamfering, brake fluid bleeding, ultrasonic AC evaporator sterilization.",
+  "items": [
+    {
+      "description": "Brake Caliper Servicing & Rotor Polishing",
+      "category": "Labor",
+      "cost": 850,
+      "_id": {
+        "$oid": "6aa8d62bfc60ab64f961843b"
+      }
+    },
+    {
+      "description": "DOT-4 High Temp Brake Fluid",
+      "category": "Fluids",
+      "cost": 320,
+      "_id": {
+        "$oid": "6aa8d62bfc60ab64f961843c"
+      }
+    },
+    {
+      "description": "AC Evaporator Ozone Treatment",
+      "category": "Consumables",
+      "cost": 750,
+      "_id": {
+        "$oid": "6aa8d62bfc60ab64f961843d"
+      }
+    }
+  ],
+  "totalLabor": 850,
+  "totalParts": 1070,
+  "taxAmount": 345,
+  "grandTotal": 2265,
+  "paymentStatus": "Paid",
+  "paymentMethod": "Credit Card",
+  "invoiceNumber": "INV-2026-09418",
+  "invoiceDate": {
+    "$date": "2026-04-06T00:00:00.000Z"
+  },
+  "technicianName": "Suresh V. (Brake Specialist)",
+  "warrantyApplied": false,
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.185Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618435"
+  },
+  "recordId": "SR-2026-8801",
+  "user": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "vehicle": {
+    "$oid": "6aa8d62bfc60ab64f961842a"
+  },
+  "serviceCenter": {
+    "$oid": "6aa8d62bfc60ab64f9618420"
+  },
+  "serviceDate": {
+    "$date": "2026-05-12T00:00:00.000Z"
+  },
+  "mileageAtService": 15100,
+  "serviceType": "Periodic Maintenance (15,000 KM Service)",
+  "workSummary": "Completed 15K periodic maintenance: Engine oil synthetic replacement, oil filter, air filter, pollen filter replaced, multi-point electronic diagnostics, fluid top-up.",
+  "items": [
+    {
+      "description": "Synthetic Engine Oil 0W-20 (4L)",
+      "category": "Fluids",
+      "cost": 1850,
+      "_id": {
+        "$oid": "6aa8d62bfc60ab64f9618436"
+      }
+    },
+    {
+      "description": "OEM Engine Oil Filter Cartridge",
+      "category": "Parts",
+      "cost": 380,
+      "_id": {
+        "$oid": "6aa8d62bfc60ab64f9618437"
+      }
+    },
+    {
+      "description": "Cabin AC Air Purifying Filter",
+      "category": "Parts",
+      "cost": 650,
+      "_id": {
+        "$oid": "6aa8d62bfc60ab64f9618438"
+      }
+    },
+    {
+      "description": "Scheduled Periodic Service Labor & 40-pt Inspection",
+      "category": "Labor",
+      "cost": 1200,
+      "_id": {
+        "$oid": "6aa8d62bfc60ab64f9618439"
+      }
+    }
+  ],
+  "totalLabor": 1200,
+  "totalParts": 2880,
+  "taxAmount": 734,
+  "grandTotal": 4814,
+  "paymentStatus": "Paid",
+  "paymentMethod": "Online / UPI",
+  "invoiceNumber": "INV-2026-10492",
+  "invoiceDate": {
+    "$date": "2026-05-12T00:00:00.000Z"
+  },
+  "technicianName": "Rajesh Kumar (Senior Diagnostic Tech)",
+  "warrantyApplied": false,
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.185Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.185Z"
+  },
+  "__v": 0
+}]

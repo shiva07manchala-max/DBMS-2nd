@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618421"
+  },
+  "name": "DriveCare Express Center - Bachupally / Bowrampet",
+  "code": "DC-HYD-02",
+  "address": "Near KLH Campus Road, Bowrampet, Hyderabad",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "phone": "+91 40 4567 8901",
+  "email": "bowrampet@drivecare.com",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      78.3892,
+      17.5412
+    ]
+  },
+  "operatingHours": "Mon - Sat: 8:00 AM - 7:00 PM",
+  "rating": 4.8,
+  "reviewCount": 184,
+  "servicesOffered": [
+    "Quick Oil Change",
+    "Wheel Alignment",
+    "Brake Care",
+    "Full Inspection"
+  ],
+  "totalBays": 8,
+  "availableBays": 3,
+  "isOpen": true,
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.164Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618420"
+  },
+  "name": "DriveCare Flagship Service Hub - Hitech City",
+  "code": "DC-HYD-01",
+  "address": "Phase 2, Mindspace Circle, Hitech City, Hyderabad",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "phone": "+91 40 4567 8900",
+  "email": "hitech@drivecare.com",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      78.3728,
+      17.4435
+    ]
+  },
+  "operatingHours": "Mon - Sun: 7:30 AM - 8:30 PM",
+  "rating": 4.9,
+  "reviewCount": 320,
+  "servicesOffered": [
+    "Periodic Maintenance",
+    "Tyre Care",
+    "AC Service",
+    "Dent & Paint",
+    "EV Care"
+  ],
+  "totalBays": 16,
+  "availableBays": 5,
+  "isOpen": true,
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.164Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618422"
+  },
+  "name": "DriveCare Mega Workshop - Gachibowli",
+  "code": "DC-HYD-03",
+  "address": "Outer Ring Road Junction, Gachibowli, Hyderabad",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "phone": "+91 40 4567 8902",
+  "email": "gachibowli@drivecare.com",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      78.3489,
+      17.4401
+    ]
+  },
+  "operatingHours": "Mon - Sun: 24/7 (Emergency & Service)",
+  "rating": 4.9,
+  "reviewCount": 512,
+  "servicesOffered": [
+    "Heavy Mechanical",
+    "Periodic Service",
+    "Body Shop",
+    "Roadside Dispatch"
+  ],
+  "totalBays": 24,
+  "availableBays": 7,
+  "isOpen": true,
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.164Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618423"
+  },
+  "name": "DriveCare City Center - Banjara Hills",
+  "code": "DC-HYD-04",
+  "address": "Road No 12, Banjara Hills, Hyderabad",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "phone": "+91 40 4567 8903",
+  "email": "banjara@drivecare.com",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      78.4356,
+      17.4156
+    ]
+  },
+  "operatingHours": "Mon - Sat: 8:30 AM - 7:30 PM",
+  "rating": 4.7,
+  "reviewCount": 230,
+  "servicesOffered": [
+    "Periodic Maintenance",
+    "Ceramic Coating",
+    "AC Care",
+    "Diagnostics"
+  ],
+  "totalBays": 10,
+  "availableBays": 2,
+  "isOpen": true,
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.165Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.165Z"
+  },
+  "__v": 0
+}]

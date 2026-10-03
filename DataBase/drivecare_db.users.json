@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "name": "Manchala Shiva",
+  "email": "shiva@drivecare.com",
+  "password": "$2a$10$j8uHy3C9WQti0hpD4kZq4.i22zbja5u7u5yWAJZ9I18hmQymdAExy",
+  "phone": "+91 98765 43210",
+  "role": "customer",
+  "city": "Hyderabad",
+  "address": "Plot 42, Hitech City Main Road, Madhapur, Hyderabad - 500081",
+  "preferredLanguage": "English",
+  "loyaltyPoints": 2480,
+  "avatarInitials": "MS",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:50.956Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:50.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f9618411"
+  },
+  "name": "P. Bhavan",
+  "email": "bhavan@drivecare.com",
+  "password": "$2a$10$bX6QXH8a0a8O8r4heMhIielOSFsaklugPWecNNPeFIDgOa3.N10uq",
+  "phone": "+91 98480 11223",
+  "role": "customer",
+  "city": "Hyderabad",
+  "address": "Road No 10, Banjara Hills, Hyderabad",
+  "preferredLanguage": "English",
+  "loyaltyPoints": 1200,
+  "avatarInitials": "PB",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.029Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f961841b"
+  },
+  "name": "N. Sainathreddy (Lead Advisor)",
+  "email": "advisor@drivecare.com",
+  "password": "$2a$10$JsIDWjO.rVFU5hCPp/kTYOMMQQHNX1ZH3v8H4a8FkB9.ZY/4aGZYe",
+  "phone": "+91 91234 56789",
+  "role": "advisor",
+  "city": "Hyderabad",
+  "address": "DriveCare Hub, Bachupally, Hyderabad",
+  "preferredLanguage": "English",
+  "loyaltyPoints": 0,
+  "avatarInitials": "NS",
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8dcae4448c64a00008262"
+  },
+  "name": "sriram",
+  "email": "kunapareddysriram2007@gmail.com",
+  "password": "$2a$10$nSeVphUy0bxEMG8cqsfHGe1vJ3UVvGjVRWWSQjT1x5XGpEDPVieP6",
+  "phone": "+919390292119",
+  "role": "customer",
+  "city": "Hyderabad",
+  "address": "",
+  "preferredLanguage": "English",
+  "loyaltyPoints": 500,
+  "avatarInitials": "S",
+  "createdAt": {
+    "$date": "2026-09-15T05:50:38.660Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:50:38.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8ea094448c64a000084ea"
+  },
+  "name": "Manchala Shiva",
+  "email": "shiva07.manchala@gmail.com",
+  "password": "$2a$10$U4yzPDJg4kAbBvzbzr0eG.rPcVs8gF4.szZxZb2G3krKv/ngxcvK6",
+  "phone": "+918330926688",
+  "role": "customer",
+  "city": "Hyderabad",
+  "address": "",
+  "preferredLanguage": "English",
+  "loyaltyPoints": 500,
+  "avatarInitials": "MS",
+  "createdAt": {
+    "$date": "2026-09-15T06:47:37.099Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T06:47:37.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "name": "NOMULA ABHINANDHAN REDDY",
+  "email": "abhinandhan047@gmail.com",
+  "password": "$2a$10$czgwMHCCFEiozQAKjpAOreWmcVEpDt0jJzRTE1LVRkqV/WvHM2wyS",
+  "phone": "8309438448",
+  "role": "customer",
+  "city": "Hyderabad",
+  "address": "",
+  "preferredLanguage": "English",
+  "loyaltyPoints": 500,
+  "avatarInitials": "NA",
+  "createdAt": {
+    "$date": "2026-09-16T03:36:10.316Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:36:10.316Z"
+  },
+  "__v": 0
+}]

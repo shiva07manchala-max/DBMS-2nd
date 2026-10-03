@@ -1,0 +1,472 @@
+[{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f961842a"
+  },
+  "owner": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "make": "Hyundai",
+  "model": "Creta SX (O) Turbo",
+  "year": 2024,
+  "plateNumber": "TS 09 FH 4521",
+  "vin": "MALC141CPLM982143",
+  "fuelType": "Petrol",
+  "transmission": "Automatic",
+  "color": "Titan Grey Metallic",
+  "mileage": 18450,
+  "healthScore": 92,
+  "healthDetails": {
+    "engine": 94,
+    "battery": 91,
+    "brakes": 86,
+    "tyres": 92,
+    "fluids": 96
+  },
+  "warranty": {
+    "status": "Active",
+    "provider": "Hyundai 3-Year Wonder Warranty",
+    "validUntil": {
+      "$date": "2027-04-15T00:00:00.000Z"
+    },
+    "coverageType": "Comprehensive Bumper-to-Bumper"
+  },
+  "insurance": {
+    "policyNumber": "HDFC-ERGO-2024-8841",
+    "provider": "HDFC ERGO General Insurance",
+    "validUntil": {
+      "$date": "2027-01-18T00:00:00.000Z"
+    }
+  },
+  "puc": {
+    "certificateNumber": "PUC-TS-2026-904",
+    "validUntil": {
+      "$date": "2026-11-20T00:00:00.000Z"
+    }
+  },
+  "lastServiceDate": {
+    "$date": "2026-05-12T00:00:00.000Z"
+  },
+  "nextServiceDue": {
+    "$date": "2026-11-12T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.172Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f961842c"
+  },
+  "owner": {
+    "$oid": "6aa8d62afc60ab64f9618407"
+  },
+  "make": "Maruti Suzuki",
+  "model": "Swift ZXi Plus",
+  "year": 2023,
+  "plateNumber": "TS 07 EP 7789",
+  "vin": "MA3FHB22SPM119482",
+  "fuelType": "Petrol",
+  "transmission": "Manual",
+  "color": "Solid Fire Red",
+  "mileage": 26800,
+  "healthScore": 88,
+  "healthDetails": {
+    "engine": 89,
+    "battery": 84,
+    "brakes": 82,
+    "tyres": 90,
+    "fluids": 93
+  },
+  "warranty": {
+    "status": "Active",
+    "provider": "Maruti Suzuki Extended Care",
+    "validUntil": {
+      "$date": "2028-08-10T00:00:00.000Z"
+    },
+    "coverageType": "Powertrain & Mechanical"
+  },
+  "insurance": {
+    "policyNumber": "ICICI-LOMB-7789-23",
+    "provider": "ICICI Lombard Motor Insurance",
+    "validUntil": {
+      "$date": "2026-12-05T00:00:00.000Z"
+    }
+  },
+  "puc": {
+    "certificateNumber": "PUC-TS-2026-441",
+    "validUntil": {
+      "$date": "2026-10-15T00:00:00.000Z"
+    }
+  },
+  "lastServiceDate": {
+    "$date": "2026-04-06T00:00:00.000Z"
+  },
+  "nextServiceDue": {
+    "$date": "2026-10-06T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.175Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa8d62bfc60ab64f961842e"
+  },
+  "owner": {
+    "$oid": "6aa8d62bfc60ab64f9618411"
+  },
+  "make": "Tata",
+  "model": "Nexon EV Empowered",
+  "year": 2024,
+  "plateNumber": "TS 10 EV 1008",
+  "vin": "MAT612918REM44810",
+  "fuelType": "Electric",
+  "transmission": "Automatic",
+  "color": "Pristine White",
+  "mileage": 14200,
+  "healthScore": 96,
+  "healthDetails": {
+    "engine": 98,
+    "battery": 95,
+    "brakes": 94,
+    "tyres": 95,
+    "fluids": 99
+  },
+  "warranty": {
+    "status": "Active",
+    "provider": "Tata EV 8-Year High Voltage Battery Warranty",
+    "validUntil": {
+      "$date": "2032-03-01T00:00:00.000Z"
+    },
+    "coverageType": "Battery & Motor Warranty"
+  },
+  "insurance": {
+    "policyNumber": "TATA-AIG-EV-2024",
+    "provider": "Tata AIG General Insurance",
+    "validUntil": {
+      "$date": "2027-02-28T00:00:00.000Z"
+    }
+  },
+  "puc": {
+    "certificateNumber": "PUC-EV-EXEMPT-2026",
+    "validUntil": {
+      "$date": "2030-01-01T00:00:00.000Z"
+    }
+  },
+  "lastServiceDate": {
+    "$date": "2026-06-18T00:00:00.000Z"
+  },
+  "nextServiceDue": {
+    "$date": "2026-12-18T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-15T05:22:51.177Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-15T05:22:51.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa0f1b4448c64a0000853d"
+  },
+  "owner": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "make": "Audi",
+  "model": "RS6",
+  "year": 2024,
+  "plateNumber": "TG 07 JK 9999",
+  "vin": "VIN1789529883261",
+  "fuelType": "Petrol",
+  "transmission": "Automatic",
+  "color": "Titan Grey Metallic",
+  "mileage": 15000,
+  "healthScore": 92,
+  "healthDetails": {
+    "engine": 94,
+    "battery": 90,
+    "brakes": 88,
+    "tyres": 92,
+    "fluids": 96
+  },
+  "warranty": {
+    "status": "Active",
+    "provider": "Manufacturer Comprehensive 3-Yr Warranty",
+    "validUntil": {
+      "$date": "2028-09-15T03:38:03.261Z"
+    },
+    "coverageType": "Comprehensive Bumper-to-Bumper"
+  },
+  "insurance": {
+    "policyNumber": "POL-HYD-301868",
+    "provider": "HDFC ERGO General Insurance",
+    "validUntil": {
+      "$date": "2027-09-16T03:38:03.261Z"
+    }
+  },
+  "puc": {
+    "certificateNumber": "PUC-TS-79659",
+    "validUntil": {
+      "$date": "2027-03-15T03:38:03.261Z"
+    }
+  },
+  "lastServiceDate": {
+    "$date": "2026-06-18T03:38:03.261Z"
+  },
+  "nextServiceDue": {
+    "$date": "2026-11-15T03:38:03.261Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-16T03:38:03.276Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:38:03.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa0f644448c64a00008563"
+  },
+  "owner": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "make": "RANGE ROVER",
+  "model": "SPORT",
+  "year": 2024,
+  "plateNumber": "TG 07 JK 6666",
+  "vin": "VIN1789529956801",
+  "fuelType": "Petrol",
+  "transmission": "Automatic",
+  "color": "Titan Grey Metallic",
+  "mileage": 15000,
+  "healthScore": 92,
+  "healthDetails": {
+    "engine": 94,
+    "battery": 90,
+    "brakes": 88,
+    "tyres": 92,
+    "fluids": 96
+  },
+  "warranty": {
+    "status": "Active",
+    "provider": "Manufacturer Comprehensive 3-Yr Warranty",
+    "validUntil": {
+      "$date": "2028-09-15T03:39:16.801Z"
+    },
+    "coverageType": "Comprehensive Bumper-to-Bumper"
+  },
+  "insurance": {
+    "policyNumber": "POL-HYD-715718",
+    "provider": "HDFC ERGO General Insurance",
+    "validUntil": {
+      "$date": "2027-09-16T03:39:16.802Z"
+    }
+  },
+  "puc": {
+    "certificateNumber": "PUC-TS-56161",
+    "validUntil": {
+      "$date": "2027-03-15T03:39:16.802Z"
+    }
+  },
+  "lastServiceDate": {
+    "$date": "2026-06-18T03:39:16.802Z"
+  },
+  "nextServiceDue": {
+    "$date": "2026-11-15T03:39:16.802Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-16T03:39:16.805Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:39:16.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa114a4448c64a00008584"
+  },
+  "owner": {
+    "$oid": "6aaa0eaa4448c64a00008514"
+  },
+  "make": "TOYOTA",
+  "model": "Fortuner",
+  "year": 2024,
+  "plateNumber": "TG 07 JK 7777",
+  "vin": "VIN1789530442563",
+  "fuelType": "Petrol",
+  "transmission": "Automatic",
+  "color": "Titan Grey Metallic",
+  "mileage": 15000,
+  "healthScore": 92,
+  "healthDetails": {
+    "engine": 94,
+    "battery": 90,
+    "brakes": 88,
+    "tyres": 92,
+    "fluids": 96
+  },
+  "warranty": {
+    "status": "Active",
+    "provider": "Manufacturer Comprehensive 3-Yr Warranty",
+    "validUntil": {
+      "$date": "2028-09-15T03:47:22.564Z"
+    },
+    "coverageType": "Comprehensive Bumper-to-Bumper"
+  },
+  "insurance": {
+    "policyNumber": "POL-HYD-599570",
+    "provider": "HDFC ERGO General Insurance",
+    "validUntil": {
+      "$date": "2027-09-16T03:47:22.564Z"
+    }
+  },
+  "puc": {
+    "certificateNumber": "PUC-TS-44564",
+    "validUntil": {
+      "$date": "2027-03-15T03:47:22.564Z"
+    }
+  },
+  "lastServiceDate": {
+    "$date": "2026-06-18T03:47:22.564Z"
+  },
+  "nextServiceDue": {
+    "$date": "2026-11-15T03:47:22.564Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-16T03:47:22.567Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T03:47:22.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa160b4448c64a000085ac"
+  },
+  "owner": {
+    "$oid": "6aa8ea094448c64a000084ea"
+  },
+  "make": "MERC BENZ",
+  "model": "G WAGON",
+  "year": 2024,
+  "plateNumber": "TG 11 JK 1111",
+  "vin": "VIN1789531659237",
+  "fuelType": "Petrol",
+  "transmission": "Automatic",
+  "color": "Titan Grey Metallic",
+  "mileage": 15000,
+  "healthScore": 92,
+  "healthDetails": {
+    "engine": 94,
+    "battery": 90,
+    "brakes": 88,
+    "tyres": 92,
+    "fluids": 96
+  },
+  "warranty": {
+    "status": "Active",
+    "provider": "Manufacturer Comprehensive 3-Yr Warranty",
+    "validUntil": {
+      "$date": "2028-09-15T04:07:39.237Z"
+    },
+    "coverageType": "Comprehensive Bumper-to-Bumper"
+  },
+  "insurance": {
+    "policyNumber": "POL-HYD-957731",
+    "provider": "HDFC ERGO General Insurance",
+    "validUntil": {
+      "$date": "2027-09-16T04:07:39.237Z"
+    }
+  },
+  "puc": {
+    "certificateNumber": "PUC-TS-35908",
+    "validUntil": {
+      "$date": "2027-03-15T04:07:39.237Z"
+    }
+  },
+  "lastServiceDate": {
+    "$date": "2026-06-18T04:07:39.237Z"
+  },
+  "nextServiceDue": {
+    "$date": "2026-11-15T04:07:39.237Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-16T04:07:39.240Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T04:07:39.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aaa16b24448c64a000085d0"
+  },
+  "owner": {
+    "$oid": "6aa8ea094448c64a000084ea"
+  },
+  "make": "Tata",
+  "model": "Nexon",
+  "year": 2024,
+  "plateNumber": "TG 11 JK 1112",
+  "vin": "VIN1789531826039",
+  "fuelType": "Petrol",
+  "transmission": "Automatic",
+  "color": "Titan Grey Metallic",
+  "mileage": 15000,
+  "healthScore": 92,
+  "healthDetails": {
+    "engine": 94,
+    "battery": 90,
+    "brakes": 88,
+    "tyres": 92,
+    "fluids": 96
+  },
+  "warranty": {
+    "status": "Active",
+    "provider": "Manufacturer Comprehensive 3-Yr Warranty",
+    "validUntil": {
+      "$date": "2028-09-15T04:10:26.040Z"
+    },
+    "coverageType": "Comprehensive Bumper-to-Bumper"
+  },
+  "insurance": {
+    "policyNumber": "POL-HYD-870095",
+    "provider": "HDFC ERGO General Insurance",
+    "validUntil": {
+      "$date": "2027-09-16T04:10:26.040Z"
+    }
+  },
+  "puc": {
+    "certificateNumber": "PUC-TS-50475",
+    "validUntil": {
+      "$date": "2027-03-15T04:10:26.040Z"
+    }
+  },
+  "lastServiceDate": {
+    "$date": "2026-06-18T04:10:26.040Z"
+  },
+  "nextServiceDue": {
+    "$date": "2026-11-15T04:10:26.040Z"
+  },
+  "createdAt": {
+    "$date": "2026-09-16T04:10:26.046Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-16T04:10:26.046Z"
+  },
+  "__v": 0
+}]
